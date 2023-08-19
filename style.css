@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    background-color: black;
+    position: sticky;
+
+
+}
+
+.nav{
+    color:white;
+    font:bold;
+    font-size:large;
+    
+}
+ul{
+    display:inline;
+    margin-left: 1100px;
+    color:white;
+    align-items: first baseline;
+    
+    
+}
+li{
+    list-style: none;
+    display:inline;
+    padding-left: 15px;
+    color:white;
+    
+    
+}
+
+#table{
+    margin:10px;
+}
+
+#books{
+    margin:5px;
+}
+
+th{
+    padding:8px;
+}
+
+td{
+    padding:5px;
+}
+
